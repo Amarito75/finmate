@@ -35,7 +35,7 @@ const items = [
   },
   {
     title: "Chat",
-    url: "#",
+    url: "/dashboard/chat",
     icon: MessageCircle,
   },
 ];
